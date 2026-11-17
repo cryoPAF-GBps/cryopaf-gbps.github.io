@@ -1,12 +1,12 @@
-# cryoPAF Galactic Bulge Pulsar Survey (GBps)
+# CryoPAF Galactic Bulge Pulsar Survey (GBps)
 
-Welcome to the collaboration portal for the **cryoPAF Galactic Bulge Pulsar Survey (GBps)**. This site serves as the central hub for our team's organizational policies, active subprojects, and survey documentation.
+Welcome to the collaboration portal for the **cryoPAF Galactic Bulge Pulsar Survey (GBps)**. This site serves as the central hub for our team's organisational policies, active subprojects, and survey documentation.
 
 ---
 
 ## Survey Overview
 
-The cryoPAF Galactic Bulge pulsar survey (GBps) is a deep survey covering the core of the Bulge region using the new cryoPAF system on Murriyang, the Parkes radio telescope. Such a survey is expected to discover a population of millisecond pulsars in the Galactic Bulge and reveal their distribution and gamma-ray emissions. With these, we aim to lead pioneering studies on the origin of gamma-ray emission in the Galactic Bulge, a longstanding mystery in modern astronomy. The outcome of this project will significantly advance our knowledge of the formation and evolution of millisecond pulsars in the Galactic Bulge, the origin and properties of high-energy emissions, and the nature of dark matter annihilation in the Galactic Centre. A total of 200 observations with the cryoPAF is required to cover a 400 square degree region. 
+The cryoPAF Galactic Bulge pulsar survey (GBps) is a deep survey covering the core of the Bulge region using the new cryoPAF system on Murriyang, the Parkes radio telescope. Such a survey is expected to discover a population of millisecond pulsars in the Galactic Bulge and reveal their distribution and gamma-ray emissions. With these, we aim to lead pioneering studies on the origin of gamma-ray emission in the Galactic Bulge, a longstanding mystery in modern astronomy. The outcome of this project will significantly advance our knowledge of the formation and evolution of millisecond pulsars in the Galactic Bulge, the origin and properties of high-energy emissions, and the nature of dark matter annihilation in the Galactic Centre. 
 
 ---
 
