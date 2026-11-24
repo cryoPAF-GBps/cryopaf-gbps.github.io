@@ -13,7 +13,7 @@ The cryoPAF Galactic Bulge pulsar survey (GBps) is a deep survey covering the co
 ## Navigation & Resources
 
 * **[Collaboration Policies & Guidelines](policies.md)** — Rules and expectations regarding communication, subproject registration, data sharing, and authorship.
-* **[Active Subprojects]** — Directory of ongoing analyses, working groups, and lead investigators *(https://docs.google.com/spreadsheets/d/1AHflFR50oiXaD5oX-Vs6iLs8YyKNJDtbmWuI8caedUo/edit?usp=sharing)*.
+* **[Active Subprojects](https://docs.google.com/spreadsheets/d/1AHflFR50oiXaD5oX-Vs6iLs8YyKNJDtbmWuI8caedUo/edit?usp=sharing)** — Directory of ongoing analyses, working groups, and lead investigators.
 * **[GitHub Organization](https://github.com/cryoPAF-GBps)** — Access our shared repositories, analysis pipelines, and issue trackers *(update with your organization URL)*.
 
 ## Getting Started for New Members
